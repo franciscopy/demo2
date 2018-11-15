@@ -10,3 +10,6 @@ paragraph text goes here...
 [USYD Website](https://sydney.edu.au/)
 
 # Header 4
+* Bullet 4
+* BUllet 5
+* BUllet 6
