@@ -7,4 +7,4 @@
 
 paragraph text goes here...
 
-[USYDwebsite](https://sydney.edu.au/) 
+[USYD Website](https://sydney.edu.au/)
